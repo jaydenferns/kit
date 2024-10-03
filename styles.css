@@ -23,15 +23,15 @@ header h1 {
 
 .calculator {
     background-color: #fff;
-    padding: 20px;
-    border-radius: 10px;
+    padding: 30px;
+    border-radius: 30px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     width: 300px;
     margin: 0 auto;
 }
 
 #display {
-    width: 100%;
+    width: 93%;
     height: 50px;
     font-size: 24px;
     text-align: right;
